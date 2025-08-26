@@ -31,11 +31,11 @@ booleanVar16 = False
 intVar17 = 3
 intVar18 = 2
 intVar19 = 1
-Var20 = strVar11
-Var21 = strVar12
-Var22 = intVar13
-Var23 = strVar14
-Var24 = strVar15
+strVar20 = strVar11
+strVar21 = strVar12
+strVar22 = intVar13
+strVar23 = strVar14
+strVar24 = strVar15
 intVar25 = 6
 
 #3. Take all the variables you labeled as "integer", add them together, and print the result.
