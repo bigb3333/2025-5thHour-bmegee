@@ -29,7 +29,7 @@ else:
     print ('C is not an even number')
 
 #7. Create a variable whose value is 3 + a randomly generated number between 1 and 20
-big=random.randint(1,20)
+big=random.randint(1,20)+3
 print (big)
 
 #8. Make an if statement that prints if the variable from #7 is greater than, less than, or equal to A + B + C.
